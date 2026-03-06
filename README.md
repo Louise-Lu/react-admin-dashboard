@@ -1,4 +1,22 @@
-# 
+# React Admin Dashboard
+
+## 项目简介
+这是一个传统 PC 管理后台项目，使用 React 构建，主要功能包括：
+- 登录鉴权与 token 持久化
+- 文章列表筛选、分页管理
+- 发布 / 编辑 / 删除文章
+- 封面图片上传
+- 路由懒加载与页面性能优化
+- 数据可视化（ECharts）
+
+## 技术栈
+- React + CRA (craco)
+- Redux Toolkit
+- React Router
+- Ant Design
+- Axios
+- ECharts
+  
 ## 基于CRA创建项目
 > CRA是一个底层基于webpack快速创建React项目的脚手架工具
 
